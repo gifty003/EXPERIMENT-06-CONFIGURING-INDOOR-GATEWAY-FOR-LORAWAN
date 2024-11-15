@@ -84,9 +84,16 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+![WhatsApp Image 2024-10-14 at 09 11 11](https://github.com/user-attachments/assets/7b21339a-5843-436d-b489-296bc1650a9d)
+
+![WhatsApp Image 2024-10-14 at 09 11 12](https://github.com/user-attachments/assets/2a347508-0ad9-4052-8437-fb38e4c94961)
+
+![WhatsApp Image 2024-10-14 at 09 11 13](https://github.com/user-attachments/assets/1c81aac1-439c-4000-ab55-924d584c508d)
+
+![WhatsApp Image 2024-10-14 at 09 11 45](https://github.com/user-attachments/assets/4bc9ac5f-2488-4514-8499-06c907817d45)
 
 
 
 ## Results: 
-
+Hence the Gateway is configured successfully 
 
